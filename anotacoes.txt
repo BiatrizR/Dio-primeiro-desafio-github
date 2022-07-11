@@ -1,0 +1,20 @@
+Anotações referente as aulas assistidas ✍
+
+- Teoria e comandos de navegação no prompt: 📕
+ 	1.Listar diretórios/localização - dir
+	2. Change direction/navegação - cd
+	3. Clean Screen - cls
+	4. Retroceder - cd..
+	5.Make a diretor - Mkdir
+	6.delete - del/rmdir name /s/q
+	7.complete - TAB
+	8.historico - UP_Arrow
+	9.hiden files - nome -a
+	10. arquivo especifico - CAT nome
+-Navegação, armazenamento e crianção no git: 📤📥🗃
+	1.Autenticação e chave de segurança;
+	2. Árvore/objeto bloob 
+	3.Add/ status/commit/push
+	
+
+	
